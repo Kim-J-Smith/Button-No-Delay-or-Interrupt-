@@ -5,6 +5,6 @@ The main.c is an example code.
 My solution is in the "Button" folder.
 
 main.c文件是一个示例代码，所用到的其他.c文件已经给出
-我对按键的解决方案放在了 "Button" 文件夹
+我对按键的解决方案放在了 "key.c" "key.h"
 
 MCU型号为STC89C52RC
